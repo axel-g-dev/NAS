@@ -1,4 +1,4 @@
-''' bash
+```bash
 # NAS
 
 #!/bin/bash
@@ -161,4 +161,5 @@ backup_samba_conf
 write_samba_conf
 restart_samba
 print_summary
-'''
+
+```
