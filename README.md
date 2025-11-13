@@ -1,5 +1,4 @@
 '''bash
-
 # NAS
 
 #!/bin/bash
